@@ -49,20 +49,6 @@ Worked closely with designers, backend teams, and product owners.
 
 ---
 
-<!-- STATS -->
-## 📊 GitHub Stats & Activity
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=bhumigajjar&show_icons=true&theme=outrun&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhumigajjar&layout=compact&theme=outrun&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=bhumigajjar&theme=outrun&hide_border=true" />
-</p>
-
----
-
 ## 📫 Connect With Me
 
 - **Email:** bgajjar.123@gmail.com  
