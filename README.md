@@ -49,6 +49,18 @@ Worked closely with designers, backend teams, and product owners.
 
 ---
 
+<!-- Opportunity  SECTION -->
+## ✨ Open to Opportunities
+
+Although I’m on a career break, I’m open to:
+
+- Part-time or flexible remote work  
+- Freelance opportunities  
+- Small collaborative projects  
+- Returning to full-time work soon  
+
+
+---
 ## 📫 Connect With Me
 
 - **Email:** bgajjar.123@gmail.com  
